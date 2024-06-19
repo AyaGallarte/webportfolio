@@ -70,14 +70,13 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 }
-#text-tools{
+
+#text-tools {
 	font-family: Montserrat;
-	font-size: 24px;
-	font-weight: 700;
-	line-height: 32px;
 	color: yellow;
 	text-align: center;
 }
+
 #text-title {
 	font-family: Montserrat;
 	font-size: 24px;
@@ -86,11 +85,18 @@
 	color: yellow;
 }
 
-#text-projects {
+/*#text-projects {
 	font-family: Montserrat;
 	font-size: 30px;
 	font-weight: 700;
 	line-height: 32px;
+	color: yellow;
+	text-align: center;
+	padding-top: 30px;
+}*/
+
+#text-projects {
+	font-family: Montserrat;
 	color: yellow;
 	text-align: center;
 	padding-top: 30px;
